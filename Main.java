@@ -1,6 +1,6 @@
 package Main;
 
-//Obviamente cambia las importaciones de las clases según tu proyecto.
+//no me llego a correr por nda pero creo que si se solucina ese error corre bien
 import Model.Compra;
 import Model.Electronico;
 import Model.Producto;
